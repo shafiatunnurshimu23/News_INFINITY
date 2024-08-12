@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".DetailsActivity">
+
+
+
+   <androidx.cardview.widget.CardView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       app:cardCornerRadius="6dp"
+       app:cardUseCompatPadding="true">
+
+      <ScrollView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent">
+
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:padding="15dp">
+
+            <TextView
+                android:id="@+id/detailsTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Headlines:Blank"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/detailsImage"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/detailsPublishTime"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/no_image" />
+
+            <TextView
+                android:id="@+id/detailsPublishedBy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/detailsTitle"
+                android:text="published by:blank"
+                android:textColor="@color/teal_700"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/detailsPublishTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/detailsPublishedBy"
+                android:text="published at:blank"
+                android:textColor="@color/teal_700"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/detailsDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/detailsImage"
+                android:layout_marginTop="5dp"
+                android:text="details:blank"
+                android:textSize="19sp" />
+         </RelativeLayout>
+
+      </ScrollView>
+   </androidx.cardview.widget.CardView>
+
+</LinearLayout>

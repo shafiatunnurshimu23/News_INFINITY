@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">News INFINITY</string>
+    <string name="Open_navigation_drawer">Open navigation drawer</string>
+    <string name="Close_navigation_drawer">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="headline">
+        <item>How the world reacted to ‘the best World Cup final ever</item>
+        <item>চট্টগ্রামে করোনার টিকার চতুর্থ ডোজে সাড়া নেই</item>
+        <item>Elon Musk to quit as Twitter CEO when replacement found</item>
+        <item>The Batman Is A Gotham City Horror Movie In Clever Scream 6 Trailer Edit</item>
+        <item>Weird Al Yankovic Movie True Story: How Much Really Happened</item>
+        <item>Avatar 2 Fans Reeling Over How Well Sigourney Weaver Plays Teenage Kiri</item>
+        <item>Endgame’s Portal Scene Recreated With MCU Phase 4 Characters In Fan Art</item>
+        <item>The 5 ‘known unknowns’ that will define 2024</item>
+        <item>No, Yellowstone isn’t about to erupt, even after more magma was found</item>
+
+    </string-array>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Qatar</item>
+        <item>Algeria</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Australia</item>
+    </string-array>
+    <string-array name="adminUser">
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+</resources>

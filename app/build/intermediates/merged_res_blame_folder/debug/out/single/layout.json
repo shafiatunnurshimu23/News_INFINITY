@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_details.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_admin_pannel.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_admin_pannel.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_admin_login.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_admin_login.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_admin_or_user.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_admin_or_user.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/country_category.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/country_category.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_homepage.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_channel_web_view.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_channel_web_view.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/navigation_header.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/navigation_header.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_add_news_to_fire_store.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_add_news_to_fire_store.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_watch_video.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_watch_video.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_splash_screen.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_category_wise_news.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_category_wise_news.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/layout_listitem.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/layout_listitem.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/layout_headlines.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/layout_headlines.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_country_wise_news.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_country_wise_news.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/toolbar.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_signup.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_search_news.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_search_news.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_details2.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_details2.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/toolbar_second.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/toolbar_second.xml"
+    },
+    {
+        "merged": "com.example.projectnewsapp-mergeDebugResources-38:/layout/activity_country_choice.xml",
+        "source": "com.example.projectnewsapp-main-41:/layout/activity_country_choice.xml"
+    }
+]

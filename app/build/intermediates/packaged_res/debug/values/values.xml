@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adminUser">
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Qatar</item>
+        <item>Algeria</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Australia</item>
+    </string-array>
+    <string-array name="headline">
+        <item>How the world reacted to ‘the best World Cup final ever</item>
+        <item>চট্টগ্রামে করোনার টিকার চতুর্থ ডোজে সাড়া নেই</item>
+        <item>Elon Musk to quit as Twitter CEO when replacement found</item>
+        <item>The Batman Is A Gotham City Horror Movie In Clever Scream 6 Trailer Edit</item>
+        <item>Weird Al Yankovic Movie True Story: How Much Really Happened</item>
+        <item>Avatar 2 Fans Reeling Over How Well Sigourney Weaver Plays Teenage Kiri</item>
+        <item>Endgame’s Portal Scene Recreated With MCU Phase 4 Characters In Fan Art</item>
+        <item>The 5 ‘known unknowns’ that will define 2024</item>
+        <item>No, Yellowstone isn’t about to erupt, even after more magma was found</item>
+
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="card_bg">#BEF8FF</color>
+    <color name="channel_select_bg">#FFD2B0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="random_color1">#24DFC3</color>
+    <color name="search_bg">#DFEFED</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Close_navigation_drawer">Close navigation drawer</string>
+    <string name="Open_navigation_drawer">Open navigation drawer</string>
+    <string name="app_name">News INFINITY</string>
+    <string name="default_web_client_id" translatable="false">665684845033-1q996e7f5132a7uc6hrho9s7hlj1o0j1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">665684845033</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdJOAbWn8lSSaecF-Hnh-ELlHM-0OodD4</string>
+    <string name="google_app_id" translatable="false">1:665684845033:android:56b0a265d6d83065076b78</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdJOAbWn8lSSaecF-Hnh-ELlHM-0OodD4</string>
+    <string name="google_storage_bucket" translatable="false">news-app-4afa9.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">news-app-4afa9</string>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.ProjectNewsApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/purple_700</item>
+        
+    </style>
+</resources>
